@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'logo';
+    src: url('fontes/ZCOOLKuaiLe-Regular.ttf') format('truetype');
+}
+
+#Logo{
+    font-family: 'logo';
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 30px;
+    margin-left: 30px;
+
+}
+
+#Barra_de_Pesquisa {
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 30px;
+    margin-left: 30px;  
+}
+
+#Niveis {
+    display: inline-block;
+    }
+.nivel {
+    margin: 10px;
+}
+
+#Estilos_Musicais{
+    display: inline-block;
+    margin-left: 300px;
+    margin-right: 30px;
+}
+
+#estilos {
+    text-align: right;
+    display: inline inline-block;
+}
+#Musicas_mais_Acessadas{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.fotos{
+        display: inline-block;
+    margin-right: 20px;
+}
+
+aside{
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 50px;
+    margin-right: 75px;
+}
